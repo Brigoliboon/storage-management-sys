@@ -6,3 +6,4 @@ app = FastAPI()
 
 # Include the router in your FastAPI application
 app.include_router(router)
+
